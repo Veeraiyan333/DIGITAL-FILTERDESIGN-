@@ -26,6 +26,3 @@ The testbench tb_fir_filter verifies the design by providing a sequence of input
 
 output:
 
-
-
-
