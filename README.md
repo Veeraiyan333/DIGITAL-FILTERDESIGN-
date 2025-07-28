@@ -26,3 +26,8 @@ The testbench tb_fir_filter verifies the design by providing a sequence of input
 
 output:
 
+<img width="1360" height="634" alt="Image" src="https://github.com/user-attachments/assets/67ddd895-639c-4396-8b92-008622b09bc4" />
+
+
+<img width="1362" height="635" alt="Image" src="https://github.com/user-attachments/assets/934f1dcb-1eaf-4ccd-b6d6-f774d066698b" />
+
